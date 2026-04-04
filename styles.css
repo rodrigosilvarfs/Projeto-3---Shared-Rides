@@ -37,8 +37,12 @@ cursor: pointer;
    color: #ffffff;
 }
 
+main {
+    display:contents;
+}
+
 img {
-    margin-top: 163px;
+    margin-top: 50px;
     margin-left: 123px;
     display: inline-block;
 }
